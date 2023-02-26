@@ -15,17 +15,18 @@
   <a href="https://marketplace.visualstudio.com/items?itemName=ArturGuedx.Aconitum"><img src="https://img.shields.io/visual-studio-marketplace/d/ArturGuedx.Aconitum" alt="Aconitum marketplace downloads"></a>
 </p>
 
-
-<figure>
-<figcaption align = "center"><i>Aconitum </i></figcaption>
-<img src="images/2023-02-25_default.png" width="100%">
-</figure>
-<p/>
 <p align="center">
-<figure>
-<figcaption align = "center"><i>Aconitum Clean</i></figcaption>
-<img src="images/2023-02-25_clean.png" width="100%">
-</figure>
+  <figure>
+    <figcaption align = "center"><i>Aconitum </i></figcaption>
+    <img src="images/2023-02-25_default.png" width="100%">
+  </figure>
+<p/>
+
+<p align="center">
+  <figure>
+    <figcaption  ion align = "center"><i>Aconitum Clean</i></figcaption>
+    <img src="images/2023-02-25_clean.png" width="100%">
+  </figure>
 <p/>
 
 <br>
