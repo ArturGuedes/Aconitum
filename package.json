@@ -1,0 +1,50 @@
+{
+  "name": "Aconitum",
+  "displayName": "Aconitum",
+  "description": "/a.koˈniː.tum/ - danger, use careful.",
+  "version": "0.0.1",
+  "publisher": "ArturGuedx",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ArturGuedes/Aconitum"
+  },
+  "author": {
+    "name": "Artur Guedes",
+    "email": "arturguedx+github@gmail.com"
+  },
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#212121",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.56.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "dark",
+    "gray",
+    "minimist",
+    "modern",
+    "poison",
+    "purple",
+    "theme",
+    "color-theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Aconitum",
+        "uiTheme": "vs-dark",
+        "path": "./themes/aconitum-color-theme.json"
+      },
+      {
+        "label": "Aconitum Clean",
+        "uiTheme": "vs-dark",
+        "path": "./themes/aconitum-clean-color-theme.json"
+      }
+    ]
+  }
+}
