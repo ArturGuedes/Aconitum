@@ -16,17 +16,13 @@
 </p>
 
 <p align="center">
-  <figure>
-    <figcaption align = "center"><i>Aconitum </i></figcaption>
-    <img src="images/2023-02-25_default.png" width="100%">
-  </figure>
+    <i>Aconitum </i>
+    <img src="images/2023-02-25_default.png" width="100%" alt="Aconitum screen">
 <p/>
 
 <p align="center">
-  <figure>
-    <figcaption  ion align = "center"><i>Aconitum Clean</i></figcaption>
-    <img src="images/2023-02-25_clean.png" width="100%">
-  </figure>
+  <i>Aconitum Clean</i>
+  <img src="images/2023-02-25_clean.png" width="100%" alt="Aconitum Clean screen">
 <p/>
 
 <br>
