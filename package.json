@@ -2,7 +2,7 @@
   "name": "Aconitum",
   "displayName": "Aconitum",
   "description": "/a.koˈniː.tum/ - danger, use careful.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "ArturGuedx",
   "repository": {
     "type": "git",
@@ -14,7 +14,7 @@
   },
   "icon": "icon.png",
   "galleryBanner": {
-    "color": "#181818",
+    "color": "#232323",
     "theme": "dark"
   },
   "engines": {
@@ -24,14 +24,16 @@
     "Themes"
   ],
   "keywords": [
+    "color-theme",
     "dark",
     "gray",
+    "minimal",
     "minimalist",
     "modern",
     "poison",
     "purple",
-    "theme",
-    "color-theme"
+    "sophisticated",
+    "theme"
   ],
   "contributes": {
     "themes": [
